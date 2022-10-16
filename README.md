@@ -1,3 +1,3 @@
 # 100DaysOfCodeBySherif
 
-100 Days of Python Code Challenge by Angela Yu
+100 Days of Python Code Challenge from Angela Yu
