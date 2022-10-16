@@ -1,4 +1,4 @@
-# 100DaysOfCodeBySherif
+# 100 Days Of Code By Sherif
 
 [Udemy Link for Angela Yu's 100 Days of Python Challenge](https://www.udemy.com/course/100-days-of-code/)
 
