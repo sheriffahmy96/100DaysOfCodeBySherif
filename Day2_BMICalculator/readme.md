@@ -1,1 +1,0 @@
-This program calculates BMI.
